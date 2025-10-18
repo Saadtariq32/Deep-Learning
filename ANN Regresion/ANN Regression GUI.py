@@ -1,4 +1,4 @@
-#ChatGPT was used to adapt previous logistic regression gui example to adapt to this multi-outpu model as I used a different approach for multi-output this time.
+#ChatGPT was used to adapt previous linear regression gui example to adapt to this multi-outpu model as I used a different approach for multi-output this time.
 import tkinter
 import pandas as pd
 import numpy as np
