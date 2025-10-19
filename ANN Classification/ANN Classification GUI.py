@@ -1,3 +1,4 @@
+#ChatGPT used to adapt previous example.
 import tkinter as tk
 import pandas as pd
 import tensorflow as tf
@@ -18,7 +19,7 @@ labels = ["No", "Yes"]
 
 #Create GUI window
 window = tk.Tk()
-window.title("Customer Churn Prediction (ANN Model - No Scaler)")
+window.title("Customer Churn Prediction (ANN Model)")
 window.option_add("*font", "lucida 20 bold")
 
 entries = {}
