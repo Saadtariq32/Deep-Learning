@@ -1,2 +1,3 @@
 https://www.kaggle.com/datasets/ulrikthygepedersen/energy-efficiency/data
 https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/data 
+https://www.kaggle.com/datasets/jvanark/nvidia-daily-stock-price-data/data
