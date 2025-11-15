@@ -1,3 +1,4 @@
 https://www.kaggle.com/datasets/ulrikthygepedersen/energy-efficiency/data
 https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/data 
 https://www.kaggle.com/datasets/umerhaddii/meta-stock-data-2025
+https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs
